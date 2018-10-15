@@ -430,8 +430,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Akshay Kulkarni (V798PRAZQM)";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: Akshay Kulkarni (V798PRAZQM)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = M4P9MTN4SU;
 				INFOPLIST_FILE = DemoTestCase/Info.plist;
@@ -452,8 +452,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: MTA/New York City Transit (M4P9MTN4SU)";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: MTA/New York City Transit (M4P9MTN4SU)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = M4P9MTN4SU;
 				INFOPLIST_FILE = DemoTestCase/Info.plist;
