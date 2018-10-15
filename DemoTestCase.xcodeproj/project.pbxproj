@@ -430,7 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Akshay Kulkarni (V798PRAZQM)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Developer: Akshay Kulkarni (V798PRAZQM)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = M4P9MTN4SU;
@@ -439,10 +439,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = info.mta.mymta;
+				PRODUCT_BUNDLE_IDENTIFIER = "info.mta.mymta-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "729ca434-71e6-4340-affb-20a09ad19fa4";
-				PROVISIONING_PROFILE_SPECIFIER = Dev_MyMTA;
+				PROVISIONING_PROFILE = "0fb35b59-82bb-4d11-9a73-366a6a7d6bd7";
+				PROVISIONING_PROFILE_SPECIFIER = Dev_DemoTests;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -452,7 +452,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: MTA/New York City Transit (M4P9MTN4SU)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=*]" = "iPhone Distribution: MTA/New York City Transit (M4P9MTN4SU)";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = M4P9MTN4SU;
@@ -461,10 +461,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = info.mta.mymta;
+				PRODUCT_BUNDLE_IDENTIFIER = "info.mta.mymta-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "edc0ce13-b086-4442-8821-c11d4c961ff4";
-				PROVISIONING_PROFILE_SPECIFIER = MYmta;
+				PROVISIONING_PROFILE = "59a75638-9fdc-443e-ad6d-06c019f54690";
+				PROVISIONING_PROFILE_SPECIFIER = Prod_DemoTests;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
