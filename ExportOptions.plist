@@ -8,8 +8,8 @@
 	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>info.mta.mymta</key>
-		<string>Dev_MyMTA</string>
+		<key>info.mta.mymta-test</key>
+		<string>Dev_DemoTests</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>iPhone Developer</string>
